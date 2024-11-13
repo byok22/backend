@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-11-13T23:23:37.553Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:132.0) Gecko/20100101 Firefox/132.0" etag="5Hjo_hf7yinWHOeTtOND" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-11-13T23:27:04.078Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:132.0) Gecko/20100101 Firefox/132.0" etag="0N0rnlKLrZ2aKjGE2wIr" version="24.6.4" type="github">
   <diagram name="Page-1" id="eVCtRf0G2x5u8zt62bL7">
     <mxGraphModel dx="1006" dy="693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -13,8 +13,11 @@
         <mxCell id="qlRtZmoTXCTp3skXaAc1-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qlRtZmoTXCTp3skXaAc1-2" target="qlRtZmoTXCTp3skXaAc1-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qlRtZmoTXCTp3skXaAc1-2" value="API COMMON" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="327" y="40" width="63" height="240" as="geometry" />
+        <mxCell id="qlRtZmoTXCTp3skXaAc1-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qlRtZmoTXCTp3skXaAc1-2" target="qlRtZmoTXCTp3skXaAc1-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qlRtZmoTXCTp3skXaAc1-2" value="COMMON" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="40" width="110" height="240" as="geometry" />
         </mxCell>
         <mxCell id="qlRtZmoTXCTp3skXaAc1-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qlRtZmoTXCTp3skXaAc1-3" target="qlRtZmoTXCTp3skXaAc1-20">
           <mxGeometry relative="1" as="geometry" />
@@ -31,47 +34,56 @@
         <mxCell id="qlRtZmoTXCTp3skXaAc1-16" value="Buildings" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="457" y="130" width="90" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="qlRtZmoTXCTp3skXaAc1-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qlRtZmoTXCTp3skXaAc1-20" target="qlRtZmoTXCTp3skXaAc1-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="qlRtZmoTXCTp3skXaAc1-20" value="Sub Customers" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="607" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qlRtZmoTXCTp3skXaAc1-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qlRtZmoTXCTp3skXaAc1-25" target="qlRtZmoTXCTp3skXaAc1-44">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="150" y="66" />
-              <mxPoint x="150" y="160" />
+              <mxPoint x="149" y="66" />
+              <mxPoint x="149" y="160" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="qlRtZmoTXCTp3skXaAc1-25" value="hsm" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.android;fillColor=#115193;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="30" y="40" width="50" height="52" as="geometry" />
+          <mxGeometry x="29" y="40" width="50" height="52" as="geometry" />
         </mxCell>
         <mxCell id="qlRtZmoTXCTp3skXaAc1-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qlRtZmoTXCTp3skXaAc1-27" target="qlRtZmoTXCTp3skXaAc1-44">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="230" y="219.9999999999999" as="targetPoint" />
+            <mxPoint x="229" y="219.9999999999999" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="150" y="235" />
-              <mxPoint x="150" y="160" />
+              <mxPoint x="149" y="235" />
+              <mxPoint x="149" y="160" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="qlRtZmoTXCTp3skXaAc1-27" value="Employeees Main" style="image;html=1;image=img/lib/clip_art/computers/Database_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="10" y="210" width="90" height="50" as="geometry" />
+          <mxGeometry x="9" y="210" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="qlRtZmoTXCTp3skXaAc1-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qlRtZmoTXCTp3skXaAc1-37" target="qlRtZmoTXCTp3skXaAc1-44">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="80" y="160" />
+              <mxPoint x="79" y="160" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="qlRtZmoTXCTp3skXaAc1-37" value="MES INSTANCES" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.android;fillColor=#115193;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="30" y="130" width="50" height="50" as="geometry" />
+          <mxGeometry x="29" y="130" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="qlRtZmoTXCTp3skXaAc1-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qlRtZmoTXCTp3skXaAc1-44" target="qlRtZmoTXCTp3skXaAc1-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qlRtZmoTXCTp3skXaAc1-44" value="&lt;div&gt;Sync&amp;nbsp;&lt;/div&gt;&lt;div&gt;Service&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="205.5" y="40" width="66.5" height="240" as="geometry" />
+          <mxGeometry x="170" y="40" width="66.5" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="qlRtZmoTXCTp3skXaAc1-54" value="Divisions" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="807" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qlRtZmoTXCTp3skXaAc1-56" value="" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=api" vertex="1" parent="1">
+          <mxGeometry x="267.29" y="310" width="135.42" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
