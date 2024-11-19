@@ -155,7 +155,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Ps2VhXncvJu6fRhswcO3" name="Diagrama Actual">
-    <mxGraphModel dx="753" dy="421" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1043" dy="693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -181,7 +181,7 @@
           <mxGeometry x="543.5" y="540" width="90" height="80" as="geometry" />
         </mxCell>
         <mxCell id="yoReeoddJAhKMAdD9oGb-1" value="Employeees Main" style="image;html=1;image=img/lib/clip_art/computers/Database_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="120" y="580" width="90" height="50" as="geometry" />
+          <mxGeometry x="40" y="580" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="yoReeoddJAhKMAdD9oGb-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="3R8vYVUgDnenjvreVEUM-2" target="3R8vYVUgDnenjvreVEUM-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -382,6 +382,34 @@
         </mxCell>
         <mxCell id="OBIlrA8m6l-wOlVA2uXT-40" value="UserInfo" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OBIlrA8m6l-wOlVA2uXT-39">
           <mxGeometry x="-0.1083" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OBIlrA8m6l-wOlVA2uXT-41" value="TEA" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.android;fillColor=#CFCFCF;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="388" y="60" width="73.5" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="OBIlrA8m6l-wOlVA2uXT-42" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="OBIlrA8m6l-wOlVA2uXT-41" target="3R8vYVUgDnenjvreVEUM-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="440" as="sourcePoint" />
+            <mxPoint x="550" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OBIlrA8m6l-wOlVA2uXT-43" value="User Info" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OBIlrA8m6l-wOlVA2uXT-42">
+          <mxGeometry x="-0.2857" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OBIlrA8m6l-wOlVA2uXT-44" value="JOTV" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.android;fillColor=#CFCFCF;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="470" y="50" width="73.5" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="OBIlrA8m6l-wOlVA2uXT-45" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="OBIlrA8m6l-wOlVA2uXT-44" target="3R8vYVUgDnenjvreVEUM-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="440" as="sourcePoint" />
+            <mxPoint x="550" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OBIlrA8m6l-wOlVA2uXT-46" value="User Info" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OBIlrA8m6l-wOlVA2uXT-45">
+          <mxGeometry x="-0.3783" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
