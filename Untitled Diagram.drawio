@@ -3080,7 +3080,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Bj6delyqEFpCwEjvtCV7-6" value="Customer_TestProductivity" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="100" width="170" height="300" as="geometry" />
+          <mxGeometry x="120" y="1000" width="170" height="300" as="geometry" />
         </mxCell>
         <mxCell id="Bj6delyqEFpCwEjvtCV7-7" value="Pk" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Bj6delyqEFpCwEjvtCV7-6">
           <mxGeometry y="30" width="170" height="30" as="geometry" />
@@ -3111,11 +3111,11 @@
         </mxCell>
         <mxCell id="DbkYMJEvfS9lUEm5Bdw7-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DbkYMJEvfS9lUEm5Bdw7-1" target="DbkYMJEvfS9lUEm5Bdw7-16">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="390" y="150" as="targetPoint" />
+            <mxPoint x="300" y="910" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DbkYMJEvfS9lUEm5Bdw7-1" value="Customer_DataIntegrity" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="90" width="180" height="120" as="geometry" />
+          <mxGeometry x="10" y="850" width="180" height="120" as="geometry" />
         </mxCell>
         <mxCell id="DbkYMJEvfS9lUEm5Bdw7-2" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="DbkYMJEvfS9lUEm5Bdw7-1">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
