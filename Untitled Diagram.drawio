@@ -1238,7 +1238,7 @@
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xO0reXvczytjq4hDNvLy-66" value="Customer" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="xO0reXvczytjq4hDNvLy-1">
+        <mxCell id="xO0reXvczytjq4hDNvLy-66" value="CT_DI_Customers" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="xO0reXvczytjq4hDNvLy-1">
           <mxGeometry x="920" y="120" width="180" height="180" as="geometry" />
         </mxCell>
         <mxCell id="xO0reXvczytjq4hDNvLy-67" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="xO0reXvczytjq4hDNvLy-66">
