@@ -3618,7 +3618,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3-WvER35MVmBZpIHC43i-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="3-WvER35MVmBZpIHC43i-35" target="3-WvER35MVmBZpIHC43i-110">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="-955" />
+              <mxPoint x="200" y="-975" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="3-WvER35MVmBZpIHC43i-135" value="CT_DI_CostCenter" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="1">
           <mxGeometry x="363" y="-740" width="180" height="210" as="geometry" />
